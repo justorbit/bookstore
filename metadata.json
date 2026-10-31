@@ -1,4 +1,20 @@
 {
-  "title": "test",
-  "id": [1, 2, 3, 4, 5]
+  "storeName": "Royal Bookstore",
+  "tagline": "",
+  "whatsapp": "923001234567",
+  "currency": "PKR",
+
+  "delivery": {
+    "defaultFee": 250,
+    "freeAbove": 5000
+  },
+
+  "paymentMethods": [
+    "Cash on Delivery",
+    "JazzCash",
+    "Easypaisa",
+    "Bank Transfer"
+  ],
+
+  "id": []
 }
